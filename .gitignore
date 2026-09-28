@@ -1,0 +1,3 @@
+# MATLAB data (course data, not for publication)
+*.mat
+*.asv
